@@ -6,22 +6,14 @@
 * [Setup](#setup)
 
 ## General info
-# Bot What'sApp Web
-
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
-## General info
 Teste técnico do processo seletivo da start-up Lemon. 
 Exercicio de back-end em Node.js, onde a partir do input do usuario e critérios pré determinados desenvolvi uma função para eleger como possivel cliente.
 
 ## Technologies
 ** Javascript
 ** Node.js
-**AJV
-**Jest
+** AJV
+** Jest
 	
 ## Setup
 
